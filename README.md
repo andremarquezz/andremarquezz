@@ -1,6 +1,4 @@
-### Oii! Meu nome é André Marquez e ainda estou desenvolvendo meu perfil
-
-- 🔭 Estudando desenvolvimento web ...
+### Oii! Meu nome é André Marquez e estou estudando desenvolvimento Web
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andremarqquez/">
