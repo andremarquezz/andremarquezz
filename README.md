@@ -12,7 +12,7 @@
   <img align="center" alt="Jey-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jey-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jey-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Jey-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/ee717db98ef31015da36720dd3ef1755.gif">
+  <img align="right" alt="Jey-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/pO0g22gxK9IAAAAC/pegando-fogo.gif">
 </div>
   
   ##
