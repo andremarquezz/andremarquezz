@@ -1,13 +1,18 @@
 ### Oii! Meu nome é André Marquez e estou estudando desenvolvimento Web
-
+ <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/andremarqquez/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-   <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=react&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
+  <hr>
+<br>
+<p align=center>
+  <div align=center>
+       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=react&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
     </a>
+  </div>
+  
+ 
   
  
 <div style="display: inline_block"><br>
