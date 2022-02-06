@@ -5,6 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+   <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=react&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
+    </a>
+  
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
