@@ -1,21 +1,21 @@
-#### Oii! Meu nome é André Marquez e estou estudando Desenvolvimento Web na trybe - turma 20.
+### Oii! Meu nome é André Marquez e estou estudando Desenvolvimento Web na trybe - turma 20.
  <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/andremarqquez/">
-  <img height="180em" width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=react&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
-
-   <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
+  
+  <div>
   <hr>
 <br>
-   
 <p align=center>
   <div align=center>
-  <img height="180em" top="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=react&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
+  
  </p>      
 
   </div>
- <br><br>
+ <br><br><br><br>
  
   <div style="display: inline_block"><br>
     <img align="center" alt="Jey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
