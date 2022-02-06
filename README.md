@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/andremarqquez/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" width=396 height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=react&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=react&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
   <div>
   <hr>
 <br>
