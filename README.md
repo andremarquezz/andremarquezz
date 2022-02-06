@@ -2,14 +2,16 @@
  <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/andremarqquez/">
-  <img height="180em" width=500 align="left" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=react&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
-  <div>
+
+   <div>
   <hr>
-<br><br><br><br>
+<br>
+   
 <p align=center>
   <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" top="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
  </p>      
 
   </div>
