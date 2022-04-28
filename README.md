@@ -15,7 +15,7 @@
  </p>      
 
   </div>
- <br><br>
+ <br>
   <div style="display: inline_block"><br>
     <img align="center" title="JavaScript" alt="Jey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" title="React" alt="Jey-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
