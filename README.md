@@ -1,24 +1,21 @@
-### Oii! Meu nome é André Marquez e sou uma Pessoa Desenvolvedora Web Full Stack
+<h2 align="center">Oii! Meu nome é André Marquez e sou uma Pessoa Desenvolvedora Web Full Stack</h2>
  <hr>
  
- <img align="center" height="590em" src="https://raw.githubusercontent.com/gist/andremarquezz/4f4f1fab06a2fb111276a8541904149c/raw/3d7ae100856dcf6d9916fc34897824b39582d670/githubcard.svg"/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/andremarqquez/">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
-  
+  <a href="https://www.linkedin.com/in/andremarqquez/" title="Clique para visitar meu linkedin 🤓 "> <img align="center" height="590em" src="https://raw.githubusercontent.com/gist/andremarquezz/4f4f1fab06a2fb111276a8541904149c/raw/3d7ae100856dcf6d9916fc34897824b39582d670/githubcard.svg"/></a>
   <div>
+  <hr>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <hr>
 <br>
 <p align=center>
   <div align=center>
   <img align="center" title="Streak Andre Marquez" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=dark&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
-  
  </p>      
 
   </div>
- <br><br><br><br>
- 
+ <br><br>
   <div style="display: inline_block"><br>
     <img align="center" title="JavaScript" alt="Jey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" title="React" alt="Jey-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
