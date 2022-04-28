@@ -1,5 +1,7 @@
 ### Oii! Meu nome é André Marquez e sou uma Pessoa Desenvolvedora Web Full Stack
  <hr>
+ 
+ <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/andremarquezz/7ecd0c50431476647f02d0f234937e8e/raw/7f141d3cea9a3d3fcce6a4cdb91d5d37d8201869/githubcard.svg"/>
 <div align="center">
   <a href="https://www.linkedin.com/in/andremarqquez/">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
