@@ -1,8 +1,8 @@
-### Oii! Meu nome é André Marquez e estou estudando Desenvolvimento Web na trybe - turma 20.
+### Oii! Meu nome é André Marquez e sou uma Pessoa Desenvolvedora Web Full Stack
  <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/andremarqquez/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
   
   <div>
