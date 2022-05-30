@@ -1,4 +1,4 @@
-<h2 align="center">Oii! Meu nome é André Marquez e sou uma Pessoa Desenvolvedora Web Full Stack</h2>
+<h2 align="center">Oii! Meu nome é André Marquez e sou uma Pessoa Desenvolvedora Web</h2>
  <hr>
  
 <div align="center">
