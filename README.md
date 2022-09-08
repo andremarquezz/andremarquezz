@@ -1,4 +1,4 @@
-<h2 align="center">Oii! Meu nome é André Marquez e sou Desenvolvedor Web</h2>
+<h2 align="center">Oii! Meu nome é André Marquez e sou um Desenvolvedor Web</h2>
  <hr>
  
 <div align="center">
@@ -12,6 +12,9 @@
  <hr>
  <br>
    <section align="center" style="margin-top: 30px" style="display: inline_block">
+   
+   [![wakatime](https://wakatime.com/badge/user/4c647f33-e61f-42d0-87bf-d92b6912a031.svg)](https://wakatime.com/@4c647f33-e61f-42d0-87bf-d92b6912a031)
+   
    <h4>Linguagens e Ferramentas</h4
     <img align="center" title="JavaScript" alt="Jey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
