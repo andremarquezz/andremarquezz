@@ -2,7 +2,7 @@
  <hr>
  
 <div align="center">
-  <a href="https://www.linkedin.com/in/andremarquezz/" title="Clique para visitar meu linkedin 🤓 "> <img align="center" height="590em" src="https://raw.githubusercontent.com/gist/andremarquezz/849639dff9551868830e1693cfafb28c/raw/1959071c7c14f182fe35ab568ff5cab585ead5fd/githubcard.svg"/></a>
+  <a href="https://www.linkedin.com/in/andremarquezz/" title="Clique para visitar meu linkedin 🤓 "> <img align="center" height="590em" src="https://raw.githubusercontent.com/gist/andremarquezz/ee34ab0f65b77d2b95d8258774549ae0/raw/2632cc2a078e1da883563c93a5ca9a0b72baebf9/githubcard.svg"/></a>
   <div align="center">
   <hr>
    <img height="150em" width="396" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
