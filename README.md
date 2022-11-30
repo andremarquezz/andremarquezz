@@ -58,12 +58,12 @@
  <br>
 
 
-  <div> 
-   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo </h3>
-
-  <a href = "mailto:andre.marqquez@gmail.com" title="Email - Clique para entrar em contato"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andremarqquez/" title="Linkedin - Clique para acessar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
- <a href="https://www.linkedin.com/in/andremarqquez/" title="Linkedin - Clique para acessar" target="_blank">
+  <div align="center"> 
+   <h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo </h3>
+<br>
+  <a href = "mailto:andre.marqquez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andremarqquez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5524999209942"  target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank">
  </a> 
  
