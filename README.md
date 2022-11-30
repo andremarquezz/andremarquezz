@@ -1,44 +1,76 @@
-<h2 align="center">Oii! Meu nome é André Marquez e sou um Desenvolvedor FullStack</h2>
- <hr>
- 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andremarquezz/" title="Clique para visitar meu linkedin 🤓 "> <img align="center" height="590em" src="https://raw.githubusercontent.com/gist/andremarquezz/ee34ab0f65b77d2b95d8258774549ae0/raw/2632cc2a078e1da883563c93a5ca9a0b72baebf9/githubcard.svg"/></a>
-  <div align="center">
-  <hr>
-   <img height="150em" width="396" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
-     <img title="Streak Andre Marquez" height="150em" width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=dark&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremarquezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  </div>
- <hr>
- <br>
+<h2 align="center">Oii! Eu sou André Marquez</h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- 🌱 Desenvolvedor FullStack com foco em backend 
+- ❤️ Apaixonado por inovações
+- 🎓 Cursando Desenvolvimento web na Trybe
+- 🎮 Jogando Valorant com os amigos no meu tempo livre.  Nick: Jeey#Jey
+- 📄 Conheça minhas experiências [currículo](https://drive.google.com/u/0/uc?id=1OHBCY4P8sOHL1Q2WVPuQwK-vY2EvuYgc&export=download)
+- 📫 Como entrar em contato comigo [aqui](#-conecte-se-comigo-)
+
+<br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
    <section align="center" style="margin-top: 30px" style="display: inline_block">
-   
-   [![wakatime](https://wakatime.com/badge/user/4c647f33-e61f-42d0-87bf-d92b6912a031.svg)](https://wakatime.com/@4c647f33-e61f-42d0-87bf-d92b6912a031)
-   
-   <h4>Linguagens e Ferramentas</h4
-    <img align="center" title="JavaScript" alt="Jey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img title="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> 
-      <img title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img title="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-      <img title="HTML5" alt="Jey-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img title="CSS3" alt="Jey-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img title="React" alt="Jey-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img title="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-      <img title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-      <img title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
-      <img title="Python" alt="Jey-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-<!--     <img align="right" alt="Jey-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/pO0g22gxK9IAAAAC/pegando-fogo.gif"> -->
+ 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+  ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
+  ![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest&logoColor=white)&nbsp;
+  ![Mocha](https://img.shields.io/badge/-mocha-05122A?style=flat&logo=mocha&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=white)
+
+ 
    </section>
+ <br>
   
   ##
   
+  <div align="center">
+   <img height="150em" width="396" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
+     <img title="Streak Andre Marquez" height="150em" width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=dark&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
+ 
+   <section align="center" style="margin-top: 30px" style="display: inline_block">
+    
+   [![wakatime](https://wakatime.com/badge/user/4c647f33-e61f-42d0-87bf-d92b6912a031.svg)](https://wakatime.com/@4c647f33-e61f-42d0-87bf-d92b6912a031)
+    
+   </section>
+ 
+  </div>
+  
+ <br>
+
+
   <div> 
+   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo </h3>
+
   <a href = "mailto:andre.marqquez@gmail.com" title="Email - Clique para entrar em contato"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andremarqquez/" title="Linkedin - Clique para acessar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/andremarqquez/" title="Linkedin - Clique para acessar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+ <a href="https://www.linkedin.com/in/andremarqquez/" title="Linkedin - Clique para acessar" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank">
+ </a> 
+ 
  
 </div>
-  
+    <section align="center" style="margin-top: 30px" style="display: inline_block">
+ 
  ![Snake animation](https://github.com/andremarquezz/andremarquezz/blob/output/github-contribution-grid-snake.svg)
+    
+   </section>
