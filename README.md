@@ -23,7 +23,7 @@
    <section align="center" style="margin-top: 30px" style="display: inline_block">
  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flatstyle=flat-square&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/typescript-05122A?style=flat&logo=typescript&logoColor=blue)
+  ![TypeScript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript&logoColor=blue)
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
