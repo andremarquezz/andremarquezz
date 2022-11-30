@@ -22,23 +22,26 @@
 <br>
    <section align="center" style="margin-top: 30px" style="display: inline_block">
  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flatstyle=flat-square&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-  ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
-  ![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest&logoColor=white)&nbsp;
-  ![Mocha](https://img.shields.io/badge/-mocha-05122A?style=flat&logo=mocha&logoColor=white)&nbsp;
-  ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=white)&nbsp;
-  ![MySQL](https://img.shields.io/badge/mysql-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-  ![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+  ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest&logoColor=red)
+  ![Mocha](https://img.shields.io/badge/-mocha-05122A?style=flat&logo=mocha&logoColor=brown)
+  ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=red)
+  ![MySQL](https://img.shields.io/badge/mysql-05122A?style=flat&logo=mysql&logoColor=orange)
+  ![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql&logoColor=blue)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)
+  ![TypeScript](https://img.shields.io/badge/typescript-05122A?style=flat&logo=typescript&logoColor=blue)
+  ![Express.js](https://img.shields.io/badge/express.js-05122A?style=flat&logo=express&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-05122A?style=flat&logo=redux&logoColor=purple)
 
  
    </section>
