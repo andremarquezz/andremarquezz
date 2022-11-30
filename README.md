@@ -34,8 +34,11 @@
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
   ![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest&logoColor=white)&nbsp;
-  ![Mocha](https://img.shields.io/badge/-mocha-05122A?style=flat&logo=mocha&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=white)
+  ![Mocha](https://img.shields.io/badge/-mocha-05122A?style=flat&logo=mocha&logoColor=white)&nbsp;
+  ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/mysql-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+  ![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)
 
  
    </section>
