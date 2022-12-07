@@ -14,7 +14,7 @@
 - 🎓 Cursando Desenvolvimento web na Trybe
 - 🎮 Jogando Valorant com os amigos no meu tempo livre.  Nick: Jeey#Jey
 - 📄 Conheça minhas experiências [currículo](https://drive.google.com/u/0/uc?id=1Ut6gCkDiymfvYFFo93e0UCKYnRioMYuX&export=download)
-- 📄 Meu teste de perfil Mindsight[visualizar](https://media-exp1.licdn.com/dms/image/C4D22AQENr4PEWMOfgA/feedshare-shrink_800/0/1669838010361?e=1673481600&v=beta&t=UpnkyuWGBXWyS14s20glZm4sgLXOVFA_xperKFO-b24)
+- 📄 Meu teste de perfil Mindsight [visualizar](https://media-exp1.licdn.com/dms/image/C4D22AQENr4PEWMOfgA/feedshare-shrink_800/0/1669838010361?e=1673481600&v=beta&t=UpnkyuWGBXWyS14s20glZm4sgLXOVFA_xperKFO-b24)
 - 📫 Como entrar em contato comigo [aqui](#-conecte-se-comigo-)
 
 <br><br>
