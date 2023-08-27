@@ -9,11 +9,11 @@
 
 <br>
 
-- 🌱 Desenvolvedor FullStack
-- ❤️ Apaixonado por inovações
-- 🎓 Cursando Engenharia da computação
-- 🎮 Jogando Valorant com os amigos no meu tempo livre.  Nick: Jeey#Jey
-- 📄 Conheça meu perfil pela mindsight [visualizar](https://media-exp1.licdn.com/dms/image/C4D22AQENr4PEWMOfgA/feedshare-shrink_800/0/1669838010361?e=1673481600&v=beta&t=UpnkyuWGBXWyS14s20glZm4sgLXOVFA_xperKFO-b24)
+- 🌱 Desenvolvedor Backend
+- ❤️ Transformação Digital
+- 🎓 Engenharia da computação
+- 🎮 Valorant  Nick: BRAVO Jey#Jey
+- 📄 Meu perfil pela mindsight [visualizar](https://media-exp1.licdn.com/dms/image/C4D22AQENr4PEWMOfgA/feedshare-shrink_800/0/1669838010361?e=1673481600&v=beta&t=UpnkyuWGBXWyS14s20glZm4sgLXOVFA_xperKFO-b24)
 - 📫 Como entrar em contato comigo [aqui](#-conecte-se-comigo-)
 
 <br><br>
