@@ -1,17 +1,25 @@
-<h2 align="center">André Marquez</h2>
+<h3 align="center">Oi 👋, Eu sou André Marquez</h1>
+<h4 align="center">Um desenvolvedor Backend apaixonado por Transformação Digital</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <br>
 
-- 🌱 Desenvolvedor Backend
-- ❤️ Transformação Digital
 - 🎓 Engenharia da computação
 - 🎮 Valorant  Nick: BRAVO Jey#Jey
 - 📄 Meu perfil pela mindsight [visualizar](https://media-exp1.licdn.com/dms/image/C4D22AQENr4PEWMOfgA/feedshare-shrink_800/0/1669838010361?e=1673481600&v=beta&t=UpnkyuWGBXWyS14s20glZm4sgLXOVFA_xperKFO-b24)
-- 📫 Como entrar em contato comigo [aqui](#-conecte-se-comigo-)
+
+  <div > 
+   <h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo </h3>
+<br>
+  <a href = "mailto:andre.marqquez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andremarqquez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5524999209942"  target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank">
+ </a> 
+ 
+ 
+</div>
 
 <br><br>
 
@@ -19,28 +27,8 @@
 <br>
    <section align="center" style="margin-top: 30px" style="display: inline_block">
  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flatstyle=flat-square&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript&logoColor=blue)
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-  ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=white)
-  ![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest&logoColor=red)
-  ![Mocha](https://img.shields.io/badge/-mocha-05122A?style=flat&logo=mocha&logoColor=brown)
-  ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=red)
-  ![MySQL](https://img.shields.io/badge/mysql-05122A?style=flat&logo=mysql&logoColor=orange)
-  ![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql&logoColor=blue)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)
-  ![Express.js](https://img.shields.io/badge/express.js-05122A?style=flat&logo=express&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/redux-05122A?style=flat&logo=redux&logoColor=purple)
-  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
- 
    </section>
  <br>
   
@@ -60,20 +48,5 @@
   
  <br>
 
-
-  <div align="center"> 
-   <h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo </h3>
-<br>
-  <a href = "mailto:andre.marqquez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andremarqquez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=5524999209942"  target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank">
- </a> 
- 
- 
-</div>
-    <section align="center" style="margin-top: 30px" style="display: inline_block">
- 
- ![Snake animation](https://github.com/andremarquezz/andremarquezz/blob/output/github-contribution-grid-snake.svg)
-    
-   </section>
+<h3 align="left">Faz a boa:</h3>
+<p><a href="https://www.buymeacoffee.com/andremarquez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andremarquez" /></a></p><br><br>
