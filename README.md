@@ -7,7 +7,7 @@
 
 - 🎓 Engenharia da computação
 - 🎮 Valorant  Nick: Jey#Jeyz
-- 📄 Meu perfil pela mindsight 29/11/2022 - [visualizar]()
+- 📄 Meu perfil pela mindsight 29/11/2022 - [visualizar](https://github.com/andremarquezz/andremarquezz/blob/main/ProfileFeedback.pdf)
 
   <div > 
    <h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo </h3>
