@@ -1,23 +1,27 @@
 <h3 align="center">Oi 👋, Eu sou André Marquez</h1>
-<h4 align="center">Um desenvolvedor Backend apaixonado por Transformação Digital</h3>
+<h4 align="center">Desenvolvedor Backend apaixonado por Transformação Digital</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <br>
 
 - 🎓 Engenharia da computação
-- 🎮 Valorant  Nick: BRAVO Jey#Jey
-- 📄 Meu perfil pela mindsight [visualizar](https://media-exp1.licdn.com/dms/image/C4D22AQENr4PEWMOfgA/feedshare-shrink_800/0/1669838010361?e=1673481600&v=beta&t=UpnkyuWGBXWyS14s20glZm4sgLXOVFA_xperKFO-b24)
+- 🎮 Valorant  Nick: Jey#Jeyz
+- 📄 Meu perfil pela mindsight 29/11/2022 - [visualizar]()
 
   <div > 
    <h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo </h3>
 <br>
-  <a href = "mailto:andre.marqquez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andremarqquez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=5524999209942"  target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank">
- </a> 
- 
+  <a href="mailto:andre.marqquez@gmail.com">
+  <img src="https://github.com/andremarquezz/andremarquezz/blob/main/icons/gmailIcon.png" alt="Gmail Icon" width="50px" height="50px" style="display: inline-block;" />
+</a>
+<a href="https://www.linkedin.com/in/andremarqquez/">
+  <img src="https://github.com/andremarquezz/andremarquezz/blob/main/icons/linkedinIcon.png" alt="Gmail Icon" width="50px" height="50px" style="display: inline-block;" />
+</a>
+<a href="https://www.instagram.com/blkjey/">
+  <img src="https://github.com/andremarquezz/andremarquezz/blob/main/icons/instagramIcon.png" alt="Gmail Icon" width="50px" height="50px" style="display: inline-block;" />
+</a>
+  
  
 </div>
 
