@@ -6,7 +6,7 @@
 <br>
 
 - 🎓 Engenharia da computação
-- 🎮 Valorant  Nick: Jey#Jeyz
+- 🎮 Riot ID: Jey#Jeyz
 - 📄 Meu perfil pela mindsight 29/11/2022 - [visualizar](https://github.com/andremarquezz/andremarquezz/blob/main/ProfileFeedback.pdf)
 
   <div > 
