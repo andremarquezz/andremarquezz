@@ -1,7 +1,7 @@
 <h3 align="center">Oi 👋, Eu sou André Marquez</h1>
 <h4 align="center">Desenvolvedor Backend apaixonado por Transformação Digital</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="profileIcon" width="250" src="https://github.com/andremarquezz/andremarquezz/blob/main/icons/profileIcon.png">
 
 <br>
 
