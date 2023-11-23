@@ -1,5 +1,5 @@
 <h3 align="center">Oi 👋, Eu sou André Marquez</h1>
-<h4 align="center">Desenvolvedor Backend apaixonado por Transformação Digital</h3>
+<h4 align="center">Desenvolvedor Backend</h3>
 
 <img align="right" alt="My Avatar" width="350" src="https://github.com/andremarquezz/andremarquezz/blob/main/MyAvatar.jpeg">
 
