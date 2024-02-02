@@ -1,14 +1,12 @@
 <h3 align="center">Oi 👋, Eu sou André Marquez</h1>
-<h4 align="center">Desenvolvedor Backend</h3>
+<h4 align="center">Desenvolvedor Fullstack</h3>
 
-<img align="right" alt="My Avatar" width="350" src="https://github.com/andremarquezz/andremarquezz/blob/main/MyAvatar.jpeg">
+<img align="right" alt="My Avatar" width="350" src="https://github.com/andremarquezz/andremarquezz/blob/main/profile.gif">
 
 <br>
 
 - 🎓 Engenharia da computação
 - 🎮 Riot ID: Jey#Jeyz
-- 📄 Meu perfil pela mindsight 29/11/2022 - [visualizar](https://github.com/andremarquezz/andremarquezz/blob/main/ProfileFeedback.pdf)
-
   <div > 
    <h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo </h3>
 <br>
