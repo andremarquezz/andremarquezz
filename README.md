@@ -19,8 +19,7 @@
 <a href="https://www.instagram.com/blkjey/">
   <img src="https://github.com/andremarquezz/andremarquezz/blob/main/icons/instagramIcon.png" alt="Gmail Icon" width="50px" height="50px" style="display: inline-block;" />
 </a>
-  
- 
+
 </div>
 
 <br><br>
@@ -34,18 +33,20 @@
    </section>
  <br>
   
-  ##
+ ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Estatísticas </b>
   
   <div align="center">
    <img height="150em" width="396" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremarquezz&layout=compact&langs_count=7&theme=dark"/>
      <img title="Streak Andre Marquez" height="150em" width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=andremarquezz&theme=dark&border=61dafb&hide_border=true" alt="Stake Andre Marquez" />
  
-   <section align="center" style="margin-top: 30px" style="display: inline_block">
+ [![wakatime](https://wakatime.com/badge/user/4c647f33-e61f-42d0-87bf-d92b6912a031.svg)](https://wakatime.com/@4c647f33-e61f-42d0-87bf-d92b6912a031)
     
-   [![wakatime](https://wakatime.com/badge/user/4c647f33-e61f-42d0-87bf-d92b6912a031.svg)](https://wakatime.com/@4c647f33-e61f-42d0-87bf-d92b6912a031)
-    
-   </section>
- 
+
+[Linguagens Utilizadas nos Últimos 7 Dias](https://wakatime.com/share/@Jey/7af95de9-da91-489a-b3db-c6937802e7ac.svg)
+
+
+
+   
   </div>
   
  <br>
