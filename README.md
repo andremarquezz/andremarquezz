@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Olá, me chamo André Marquez 👨🏽‍💻.</h1>
 
 <p align='center'>
- Desenvolvedor Fullstack e estudante de Engenharia da Computação, apaixonado por tecnologia desde a infância. Habilidades em trabalho em equipe, mentalidade analítica e curiosidade incessante por novas tecnologias.
+ Sou um desenvolvedor backend apaixonado por transformação digital. Possuo habilidades em comunicação, trabalho em equipe e uma mentalidade analítica. 
 </p>
 
 <p align='center'>
