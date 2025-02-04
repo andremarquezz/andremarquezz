@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/andremarqquez"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlucas577/"></a>&nbsp;&nbsp;
 </p>
 
-- 🎮 Riot ID: Jey#Jeyz
+- 🎮 Perfil Steam: [Aqui](https://steamcommunity.com/id/srjey/)
 -  [![wakatime](https://wakatime.com/badge/user/4c647f33-e61f-42d0-87bf-d92b6912a031.svg)](https://wakatime.com/@4c647f33-e61f-42d0-87bf-d92b6912a031)
  
 
