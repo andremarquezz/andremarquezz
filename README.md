@@ -6,7 +6,7 @@
 
 <p align='center'>
   <a href="https://linktr.ee/andremarquez"><img src="https://img.shields.io/badge/-Linktree-success?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/jlucas577"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/andremarquezz/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlucas577/"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/andremarqquez/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/andremarqquez"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlucas577/"></a>&nbsp;&nbsp;
 </p>
 
