@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Olá, me chamo André Marquez 👨🏽‍💻.</h1>
 
 <p align='center'>
- Sou um desenvolvedor backend apaixonado por transformação digital. Possuo habilidades em comunicação, trabalho em equipe e uma mentalidade analítica. 
+ Desenvolvedor backend com forte interesse em implementar IA para impulsionar inovação e transformação digital, me destaco pelo trabalho em equipe, mentalidade analítica e comunicação.
 </p>
 
 <p align='center'>
