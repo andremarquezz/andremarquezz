@@ -1,7 +1,9 @@
 <h1 align='center'>👋 Olá, me chamo André Marquez 👨🏽‍💻.</h1>
 
 <p align='center'>
- Desenvolvedor backend com forte interesse em implementar IA para impulsionar inovação e transformação digital. Me destaco pelo trabalho em equipe, mentalidade analítica e comunicação.
+ Sou Desenvolvedor Backend & Analista QA com 3 anos de experiência na área de tecnologia. Estou concluindo Engenharia da Computação e acumulo +1400 horas de desenvolvimento, com interesse em IA aplicada e no mercado financeiro.
+Atualmente atuo como Analista de QA, desenvolvendo e executando casos de teste automatizados, testes em pipeline (CI/CD) e desenvolvendo soluções para reduzir ciclos de teste. 
+Antes da transição para tecnologia, trabalhei como Auxiliar de Controladoria, com apoio à gestão da equipe e ao cliente.
 </p>
 
 <p align='center'>
